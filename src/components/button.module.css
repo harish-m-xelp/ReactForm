@@ -1,0 +1,8 @@
+.buttonTxt {
+  width: 50%;
+  background-color: #365e37;
+  border-color: 2px solid #ccc;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
